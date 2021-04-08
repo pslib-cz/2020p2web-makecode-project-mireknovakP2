@@ -118,6 +118,7 @@ let cloths = 0
 let mySprite: Sprite = null
 game.showLongText("SCP: ÚTĚK", DialogLayout.Full)
 game.showLongText("Nacházíš se v Laboratořích kde tajná nadace SCP testuje nebezpečné subjekty. ", DialogLayout.Full)
+
 mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     . . . . . 5 5 5 5 . . . . . . . 
